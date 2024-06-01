@@ -1,0 +1,1 @@
+ D:\\Mini_Project\\qr_code_scanner_generetor\\.dart_tool\\flutter_build\\c3aad1fb6a771ad86daed04a9cc5ab5b\\native_assets.yaml: 

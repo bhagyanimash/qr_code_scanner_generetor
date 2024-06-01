@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437138601706",
+    "project_id": "qrtest-70204",
+    "storage_bucket": "qrtest-70204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437138601706:android:f4991d8eb939e073504993",
+        "android_client_info": {
+          "package_name": "com.example.qr_code_scanner_generetor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyUzdlFGEQUTpZco_IwS-_TlqyDs_aFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

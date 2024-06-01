@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.qr_code_scanner_generetor.app-mergeDebugResources-22:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Mini_Project\\qr_code_scanner_generetor\\build\\flutter_barcode_scanner\\intermediates\\packaged_res\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
